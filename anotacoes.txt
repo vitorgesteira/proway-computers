@@ -31,3 +31,6 @@
 # biblioteca que fornece componentes prontos (angular material): https://material.angular.io/
 
 # mascara dos inputs: https://www.npmjs.com/package/ngx-mask
+
+# fazer o build para rodar o projeto no github:
+	ng build --base-href="https://vitorgesteira.github.io/proway-computers/"
