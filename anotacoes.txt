@@ -29,3 +29,5 @@
 # Criar um serviço de autenticação: ng g service auth
 
 # biblioteca que fornece componentes prontos (angular material): https://material.angular.io/
+
+# mascara dos inputs: https://www.npmjs.com/package/ngx-mask
